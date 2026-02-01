@@ -1,0 +1,6 @@
+describe_topic:
+  description: >
+    Describe the topic in a way that is easy to understand and the topic is {topic}
+  expected_output: >
+    A description of the topic {topic} in a way that is easy to understand.
+  agent: teacher
